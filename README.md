@@ -14,8 +14,8 @@ java -cp "../class" Main [options] (sous Linux)
 Options : 
 	-jeu_non_graphique ou -jng :
 		Active le jeu non graphique
-		(le jeu se lance en mode graphique par d�faut de cet argument).
+		(le jeu se lance en mode graphique par défaut de cet argument).
 
 	-choix_auto ou -cha :
-		Active le choix des fant�mes automatis� (pour les tests).
+		Active le choix des fantômes automatisés (pour les tests).
 
